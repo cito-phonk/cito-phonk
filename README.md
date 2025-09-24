@@ -1,6 +1,6 @@
 
 
-<p align="center"> <img width="200" height="200" alt="image" src="[https://raw.githubusercontent.com/cito-phonk/guh/refs/heads/main/IMG_2099.gif](https://github.com/cito-phonk/cito-phonk/blob/main/IMG_2099.gif?raw=true)" /> </p>
+<p align="center"> <img width="200" height="200" alt="image" src="https://raw.githubusercontent.com/cito-phonk/guh/refs/heads/main/IMG_2099.gif](https://github.com/cito-phonk/cito-phonk/blob/main/IMG_2099.gif" /> </p>
 
 <p align="center"> ✦ "cito phonk ✦
 
